@@ -127,6 +127,7 @@ module ActsAsMarkup
             return get_markdown_class
           when :textile
             require 'redcloth'
+            require_extensions 'redcloth'
             return RedCloth
           when :rdoc
             require 'rdoc'
