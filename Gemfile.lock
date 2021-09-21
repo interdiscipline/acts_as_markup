@@ -40,7 +40,7 @@ GEM
       syntax (>= 1.0.0)
     minitest (4.7.5)
     multi_json (1.10.1)
-    rake (10.3.2)
+    rake (13.0.6)
     rdiscount (2.1.7.1)
     rdoc (4.1.1)
       json (~> 1.4)
